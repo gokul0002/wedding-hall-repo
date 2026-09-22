@@ -1,0 +1,6 @@
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { margin:0; font-family:"DM Sans",sans-serif; background:#f8f5ef; }
+button,input,textarea { font:inherit; }
+button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible { outline:2px solid #b8834d; outline-offset:3px; }
+section[id] { scroll-margin-top:90px; }
